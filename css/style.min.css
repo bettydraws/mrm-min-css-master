@@ -1093,7 +1093,7 @@ button.secondary,
 [type="reset"].secondary,
 .button.secondary,
 [role="button"].secondary {
-  --button-back-color: #d32f2f;
+  --button-back-color: #f89747;
   --button-fore-color: #f8f8f8
 }
 
@@ -2381,7 +2381,7 @@ h1.splash {
   line-height: 60vh;
   font-size: 3rem;
   font-weight: 400;
-  color: #f22f21
+  color: #f2b021
 }
 
 h1.splash small {
@@ -2393,7 +2393,7 @@ h1.splash small {
 h1.splash::first-letter {
   font-size: 1.33em;
   color: #fff;
-  background: #f22f21;
+  background: #f29e21;
   border-radius: 6px;
   padding: 0 10px
 }
